@@ -1,0 +1,14 @@
+ECHO is on.
+#ignore all . iml files 
+*.iml
+
+#ignoring VS code setting 
+*.vscode
+
+#ignoring IJ file
+*.idea
+out
+#ignoring all html file
+*.html
+# ignoring java+dsa file 
+java+dsa
