@@ -7,7 +7,7 @@ public class TypeCasting {
         int a2 =input.nextInt();
         int sum =a1+a2;
         System.out.println(sum);
-        int a = (float)(4);
+        int a = (int)(float)(4);
         System.out.println(a);
 
 
